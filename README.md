@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,java,idea,vscode,ai,ps,wordpress,mysql )](https://skillicons.dev)
+
 - 👋 Hi, I’m @jaubass
 - 👀 I’m interested in learning code, i love music.
 - 🌱 I’m currently learning Java, PHP, HTML, CSS, Javascript.
