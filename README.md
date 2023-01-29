@@ -7,8 +7,7 @@
 - 📫 How to reach me https://bububass.com
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= js,html,css,sass,java,idea,vscode,ai,ps,wordpress,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,idea,vscode,ai,ps,wordpress,mysql,github" />
   </a>
 </p>
 
