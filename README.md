@@ -9,7 +9,7 @@
 ## My Skills
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,idea,vscode,ai,ps,wordpress,mysql,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,idea,vscode,ai,ps,wordpress,mysql,github,postman,docker" />
   </a>
 </p>
 <!---
