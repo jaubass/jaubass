@@ -2,7 +2,7 @@
 
 - :upside_down_face: I’m @jaubass
 - 👀 I’m interested in learning code, i love music and play bass.
-- 🌱 I’m currently learning Java, PHP, HTML, CSS, Javascript.
+- 🌱 I’m currently learning Java, PHP, HTML, CSS, Javascript, Typescript.
 - 💞️ I’m looking to collaborate on beatiful and useful apps.
 - 📫 How to reach me https://bububass.com
 
